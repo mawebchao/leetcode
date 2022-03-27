@@ -1,6 +1,6 @@
 package com.test.socket;
 
-import java.awt.desktop.ScreenSleepEvent;
+//import java.awt.desktop.ScreenSleepEvent;
 import java.io.*;
 
 public class TestIOInLinux {
